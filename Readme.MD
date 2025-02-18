@@ -13,6 +13,14 @@ Welcome to DSA-Java-Practise! This project aims to document popular data structu
 
 To get started with DSA-Java-Practise, you can:
 
-1. **Clone the Repository:**
+* **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/DSA-Java-Practise.git](https://www.google.com/search?q=https://github.com/your-username/DSA-Java-Practise.git)  # Replace with your repository URL
+   git clone https://github.com/Aakash-Agarwal/java-dsa-practise
+    ```
+
+* Read about Data Structures
+* **Arrays:** [Arrays.md](https://github.com/Aakash-Agarwal/java-dsa-practise/blob/master/Arrays.md)
+* **Dynamic Arrays:** [Dynamic-Arrays.md](https://github.com/Aakash-Agarwal/java-dsa-practise/blob/master/Arrays.md)
+* **Stacks:** [Stacks.md](https://github.com/Aakash-Agarwal/java-dsa-practise/blob/master/Stacks.md)
+* **Queues:** [Queues.md](https://github.com/Aakash-Agarwal/java-dsa-practise/blob/master/Queue.md)
+
