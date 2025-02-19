@@ -1,6 +1,7 @@
 import javax.naming.OperationNotSupportedException;
 
 import datastructures.basic.*;
+import datastructures.intermediate.*;
 
 public class TestApplication {
     public static void main(String[] args) throws OperationNotSupportedException {
@@ -9,13 +10,6 @@ public class TestApplication {
         System.out.println("``````````````````````````````````````````````````````````````````````````````````````````");
         ArrayDS arrayDS = new ArrayDS();
         arrayDS.demo();
-        System.out.println();
-
-        System.out.println("``````````````````````````````````````````````````````````````````````````````````````````");
-        System.out.println("\t\t\t\t Dynamic Array Data Structure");
-        System.out.println("``````````````````````````````````````````````````````````````````````````````````````````");
-        DynamicArrayDS dynamicArrayDS = new DynamicArrayDS();
-        dynamicArrayDS.demo();
         System.out.println();
 
         System.out.println("``````````````````````````````````````````````````````````````````````````````````````````");
@@ -37,6 +31,20 @@ public class TestApplication {
         System.out.println("``````````````````````````````````````````````````````````````````````````````````````````");
         LinkedListDS linkedListDS = new LinkedListDS();
         linkedListDS.demo();
+        System.out.println();
+
+        System.out.println("``````````````````````````````````````````````````````````````````````````````````````````");
+        System.out.println("\t\t\t\t Dynamic Array Data Structure");
+        System.out.println("``````````````````````````````````````````````````````````````````````````````````````````");
+        DynamicArrayDS dynamicArrayDS = new DynamicArrayDS();
+        dynamicArrayDS.demo();
+        System.out.println();
+
+        System.out.println("``````````````````````````````````````````````````````````````````````````````````````````");
+        System.out.println("\t\t\t\t N-Dimensional Array Data Structure");
+        System.out.println("``````````````````````````````````````````````````````````````````````````````````````````");
+        NDArrayDS ndArrayDS = new NDArrayDS();
+        ndArrayDS.demo();
         System.out.println();
     }
 }
