@@ -13,15 +13,20 @@ Welcome to DSA-Java-Practise! This project aims to document popular data structu
 
 To get started with DSA-Java-Practise, you can:
 
-* **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Aakash-Agarwal/java-dsa-practise
-    ```
+### **Clone the Repository:**
+```bash
+git clone https://github.com/Aakash-Agarwal/java-dsa-practise
+```
 
-* Read about Data Structures
+### **Read about Data Structures**
 * **Arrays:** [Arrays.md](Arrays.md)
-* **Dynamic Arrays:** [Dynamic-Arrays.md](Arrays.md)
+* **Dynamic Arrays:** [Dynamic-Arrays.md](DynamicArrays.md)
 * **Stacks:** [Stacks.md](Stacks.md)
 * **Queues:** [Queues.md](Queue.md)
 * **Queues:** [LinkedList.md](LinkedList.md)
 
+
+
+### **See Data Structures in action**
+
+For demo, refer class: [TestApplication.java](src/TestApplication.java)

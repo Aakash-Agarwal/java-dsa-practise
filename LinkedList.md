@@ -1,4 +1,4 @@
-## Linked List
+# Linked List
 
 - Linked lists are a non continuous blocks of memory.
 - Each block holds two values: data, and the address of next block
@@ -9,12 +9,12 @@
 - Two pointers, "Head" and "Tail", are used. "Head" points to the first element's node, and "Tail" points to the last element's node.
 - To search an element we need to traverse through the list sequentially using a "Temp" pointer. For more info, check [here]
 
-**Time Complexity**
+## **Time Complexity**
 
 - Get: O(n)
 - Insert or Update: O(1)
 - Search: O(n)
 
-**Example with Code**
+## **Example with Code**
 
 [Linked List Data Structure Impl](src/datastructures/LinkedListDS.java)
