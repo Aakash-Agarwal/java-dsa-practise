@@ -1,4 +1,4 @@
-package datastructures;
+package datastructures.basic;
 
 public class ArrayDS {
     public void demo() {

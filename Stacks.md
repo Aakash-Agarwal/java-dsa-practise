@@ -14,4 +14,4 @@
 
 ## **Example with Code**
 
-[Stack Data Structure Impl](src/datastructures/StackDS.java)
+[Stack Data Structure Impl](src/datastructures/basic/StackDS.java)

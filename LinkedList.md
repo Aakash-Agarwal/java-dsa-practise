@@ -17,4 +17,4 @@
 
 ## **Example with Code**
 
-[Linked List Data Structure Impl](src/datastructures/LinkedListDS.java)
+[Linked List Data Structure Impl](src/datastructures/basic/LinkedListDS.java)

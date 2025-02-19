@@ -15,4 +15,4 @@
 
 ## **Example with Code**
 
-[Queue Data Structure Impl](src/datastructures/QueueDS.java)
+[Queue Data Structure Impl](src/datastructures/basic/QueueDS.java)

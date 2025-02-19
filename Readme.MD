@@ -18,15 +18,21 @@ To get started with DSA-Java-Practise, you can:
 git clone https://github.com/Aakash-Agarwal/java-dsa-practise
 ```
 
-### **Read about Data Structures**
+## **Read about Data Structures**
+
+### Basic Data Structures
+
 * **Arrays:** [Arrays.md](Arrays.md)
-* **Dynamic Arrays:** [Dynamic-Arrays.md](DynamicArrays.md)
 * **Stacks:** [Stacks.md](Stacks.md)
 * **Queues:** [Queues.md](Queue.md)
 * **Queues:** [LinkedList.md](LinkedList.md)
 
 
+### Intermediate Data Structures
 
-### **See Data Structures in action**
+* **Dynamic Arrays:** [Dynamic-Arrays.md](DynamicArrays.md)
+
+
+## **See Data Structures in action**
 
 For demo, refer class: [TestApplication.java](src/TestApplication.java)
