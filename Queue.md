@@ -14,4 +14,4 @@
 
 **Example with Code**
 
-File: [QueueDS.java](src/datastructures/QueueDS.java)
+[Queue Data Structure Impl](src/datastructures/QueueDS.java)
