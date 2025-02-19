@@ -15,33 +15,33 @@ public class StackDS {
         System.out.println("Adding first element to stack");
         stack = add(stack, 0);
 
-        stack = add(stack, 1);
-        stack = add(stack, 2);
-        stack = add(stack, 3);
-        stack = add(stack, 4);
-        stack = add(stack, 5);
-        stack = add(stack, 6);
-        stack = add(stack, 7);
-        stack = add(stack, 8);
-        stack = add(stack, 9);
-        stack = add(stack, 10);
-        stack = add(stack, 11);
-        stack = add(stack, 12);
-        stack = add(stack, 13);
-        stack = add(stack, 14);
-        stack = add(stack, 15);
+        for (int i = 1; i <= 15; i++) {
+            stack = add(stack, i);
 
-        System.out.println("Getting last element from the stack : " + pop(stack));
-        System.out.println("Getting last element from the stack : " + pop(stack));
-        System.out.println("Getting last element from the stack : " + pop(stack));
-        System.out.println("Getting last element from the stack : " + pop(stack));
+        }
+
+        for (int i = 1; i <= 5; i++) {
+            System.out.println("Getting last element from the stack : " + pop(stack));
+        }
     }
 
+    /**
+     * Function to create an empty stack
+     * 
+     * @return
+     */
     private int[] createStack() {
         System.out.println("Created empty array for stack");
         return new int[0];
     }
 
+    /**
+     * Function to add an element to the stack
+     * s
+     * @param stack
+     * @param num
+     * @return
+     */
     private int[] add(int[] stack, int num) {
         if(stack.length == 0) {
             stack = new int[10];
@@ -56,6 +56,13 @@ public class StackDS {
         return stack;
     }
 
+    /**
+     * Function to remove an element from the stack
+     * 
+     * @param stack
+     * @return
+     * @throws OperationNotSupportedException
+     */
     private int pop(int[] stack) throws OperationNotSupportedException {
         if(currentLastIndex < 0) {
             throw new OperationNotSupportedException("Stack is empty");

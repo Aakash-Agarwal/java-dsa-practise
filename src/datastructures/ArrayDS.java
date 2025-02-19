@@ -15,6 +15,11 @@ public class ArrayDS {
         System.out.println("Element at location 3: " + intArr[2]);
     }
 
+    /**
+     * Function to create an array of 5 elements
+     * 
+     * @return
+     */
     private int[] createArray() {
         int[] intArr = new int[5];
 
