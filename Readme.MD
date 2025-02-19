@@ -19,8 +19,9 @@ To get started with DSA-Java-Practise, you can:
     ```
 
 * Read about Data Structures
-* **Arrays:** [Arrays.md](https://github.com/Aakash-Agarwal/java-dsa-practise/blob/master/Arrays.md)
-* **Dynamic Arrays:** [Dynamic-Arrays.md](https://github.com/Aakash-Agarwal/java-dsa-practise/blob/master/Arrays.md)
-* **Stacks:** [Stacks.md](https://github.com/Aakash-Agarwal/java-dsa-practise/blob/master/Stacks.md)
-* **Queues:** [Queues.md](https://github.com/Aakash-Agarwal/java-dsa-practise/blob/master/Queue.md)
+* **Arrays:** [Arrays.md](Arrays.md)
+* **Dynamic Arrays:** [Dynamic-Arrays.md](Arrays.md)
+* **Stacks:** [Stacks.md](Stacks.md)
+* **Queues:** [Queues.md](Queue.md)
+* **Queues:** [LinkedList.md](LinkedList.md)
 

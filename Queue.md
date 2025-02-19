@@ -3,8 +3,9 @@
 - A queue data structure arranges data in a First-In, First-Out (FIFO) order.
 - The data may or may not be stored in contiguous memory blocks.
 - During retrieval, the first item inserted into the queue is returned.
-- Two pointers, "Head" and "Tail," are used. "Head" points to the first element's index, and "Tail" points to the last element's index.
+- Two pointers, "Head" and "Tail", are used. "Head" points to the first element's index, and "Tail" points to the last element's index.
 - The size of queue is head - tail + 1
+- To search an element we need to traverse through the queue sequentially. For more info, check [here]
 
 **Time Complexity**
 
