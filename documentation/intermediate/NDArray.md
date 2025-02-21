@@ -14,7 +14,7 @@
 
 - Get: O(1)
 - Insert or Update: O(1)
-- Search: O(n * log n)) or O(n * n) depending on the search algorithm used
+- Search: O(n * log n) or O(n * n) depending on the search algorithm used (this value is for 2D array)
 
 ## **Example with Code**
 
