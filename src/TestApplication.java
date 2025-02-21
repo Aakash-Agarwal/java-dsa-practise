@@ -46,5 +46,12 @@ public class TestApplication {
         NDArrayDS ndArrayDS = new NDArrayDS();
         ndArrayDS.demo();
         System.out.println();
+
+        System.out.println("``````````````````````````````````````````````````````````````````````````````````````````");
+        System.out.println("\t\t\t\t Double Ended Queue Data Structure");
+        System.out.println("``````````````````````````````````````````````````````````````````````````````````````````");
+        DoubleEndedQueue doubleEndedQueue = new DoubleEndedQueue();
+        doubleEndedQueue.demo();
+        System.out.println();
     }
 }

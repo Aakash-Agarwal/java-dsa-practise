@@ -13,20 +13,20 @@ public class QueueDS {
         for (int i = 1; i <= 11; i++) {
             System.out.println("Head: " + head + ", Tail: " + tail + ", Queue: " + printQueue(queueDs));
             System.out.println("Adding num " + i);
-            queueDs = add(queueDs, i);
+            queueDs = enqueue(queueDs, i);
         }
         // since the queue is full, we will remove one element and then add
         System.out.println("Removing from index: " + head);
-        queueDs = remove(queueDs);
+        queueDs = dequeue(queueDs);
         System.out.println("Head: " + head + ", Tail: " + tail + ", Queue: " + printQueue(queueDs));
         
         System.out.println("Adding num 12");
-        queueDs = add(queueDs, 12);
+        queueDs = enqueue(queueDs, 12);
         System.out.println("Head: " + head + ", Tail: " + tail + ", Queue: " + printQueue(queueDs));
         
         // removing one more element
         System.out.println("Removing from index: " + head);
-        queueDs = remove(queueDs);
+        queueDs = dequeue(queueDs);
         System.out.println("Head: " + head + ", Tail: " + tail + ", Queue: " + printQueue(queueDs));
     }
 
@@ -37,7 +37,7 @@ public class QueueDS {
      * @param num
      * @return
      */
-    private int[] add(int[] queueDs, int num) {
+    private int[] enqueue(int[] queueDs, int num) {
         if (tail < queueDs.length - 1) {
             queueDs[++tail] = num;
             if (tail == 0) {
@@ -55,7 +55,7 @@ public class QueueDS {
      * @param queueDs
      * @return
      */
-    private int[] remove(int[] queueDs) {
+    private int[] dequeue(int[] queueDs) {
         if (head > -1) {
             int num = queueDs[head];
             System.out.println("Num: " + num);
