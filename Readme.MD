@@ -22,16 +22,16 @@ git clone https://github.com/Aakash-Agarwal/java-dsa-practise
 
 ### Basic Data Structures
 
-* **Arrays:** [Arrays.md](Arrays.md)
-* **Stacks:** [Stacks.md](Stacks.md)
-* **Queues:** [Queues.md](Queue.md)
-* **Linked Lists:** [LinkedList.md](LinkedList.md)
+* **Arrays:** [Arrays.md](documentation/basic/Arrays.md)
+* **Stacks:** [Stacks.md](documentation/basic/Stacks.md)
+* **Queues:** [Queues.md](documentation/basic/Queue.md)
+* **Linked Lists:** [LinkedList.md](documentation/basic/LinkedList.md)
 
 
 ### Intermediate Data Structures
 
-* **Dynamic Arrays:** [Dynamic-Arrays.md](DynamicArrays.md)
-* **N Dimensional Arrays:** [N-Dimensional-Arrays.md](NDArray.md)
+* **Dynamic Arrays:** [Dynamic-Arrays.md](documentation/intermediate/DynamicArrays.md)
+* **N Dimensional Arrays:** [N-Dimensional-Arrays.md](documentation/intermediate/NDArray.md)
 
 
 ## **See Data Structures in action**
