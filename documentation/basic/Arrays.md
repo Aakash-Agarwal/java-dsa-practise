@@ -18,4 +18,4 @@
 
 ## **Example with Code**
 
-[Array Data Structure Impl](src/datastructures/basic/ArrayDS.java)
+[Array Data Structure Impl](/src/datastructures/basic/ArrayDS.java)

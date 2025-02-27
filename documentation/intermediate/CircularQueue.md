@@ -16,4 +16,4 @@
 
 ## **Example with Code**
 
-[Queue Data Structure Impl](src/datastructures/basic/QueueDS.java)
+[Circular Queue Data Structure Impl](/src/datastructures/intermediate/CircularQueue.java)

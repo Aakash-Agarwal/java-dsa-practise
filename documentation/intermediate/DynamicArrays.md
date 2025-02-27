@@ -14,4 +14,4 @@
 
 ## **Example with Code**
 
-[Dynamic Array Data Structure Impl](src/datastructures/basic/DynamicArrayDS.java)
+[Dynamic Array Data Structure Impl](/src/datastructures/intermediate/DynamicArrayDS.java)

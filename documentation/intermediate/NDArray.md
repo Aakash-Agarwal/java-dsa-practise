@@ -18,4 +18,4 @@
 
 ## **Example with Code**
 
-[ND Array Data Structure Impl](src/datastructures/intermediate/NDArrayDS.java)
+[ND Array Data Structure Impl](/src/datastructures/intermediate/NDArrayDS.java)
