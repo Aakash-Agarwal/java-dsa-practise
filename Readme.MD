@@ -32,6 +32,7 @@ git clone https://github.com/Aakash-Agarwal/java-dsa-practise
 
 * **Dynamic Arrays:** [Dynamic-Arrays.md](documentation/intermediate/DynamicArrays.md)
 * **N Dimensional Arrays:** [N-Dimensional-Arrays.md](documentation/intermediate/NDArray.md)
+* **Circular Queue:** [CircularQueue.md](documentation/intermediate/CircularQueue.md)
 
 
 ## **See Data Structures in action**
